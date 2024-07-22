@@ -5,7 +5,11 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HackerRank", "HackerRank\HackerRank.csproj", "{A219125F-3240-4518-BB70-AE1E3AFDF63D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{90F37005-8A91-49CA-8588-F0E87A78284D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tests", "Tests\Tests.csproj", "{90F37005-8A91-49CA-8588-F0E87A78284D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeWars", "CodeWars\CodeWars.csproj", "{844A4E81-1197-4AC9-B1A1-F11C445AF00B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode", "LeetCode\LeetCode.csproj", "{0F571759-3C24-4918-84BC-4F29B802D5EA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{90F37005-8A91-49CA-8588-F0E87A78284D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{90F37005-8A91-49CA-8588-F0E87A78284D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{90F37005-8A91-49CA-8588-F0E87A78284D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{844A4E81-1197-4AC9-B1A1-F11C445AF00B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{844A4E81-1197-4AC9-B1A1-F11C445AF00B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{844A4E81-1197-4AC9-B1A1-F11C445AF00B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{844A4E81-1197-4AC9-B1A1-F11C445AF00B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F571759-3C24-4918-84BC-4F29B802D5EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F571759-3C24-4918-84BC-4F29B802D5EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F571759-3C24-4918-84BC-4F29B802D5EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F571759-3C24-4918-84BC-4F29B802D5EA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
