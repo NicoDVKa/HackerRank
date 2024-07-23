@@ -13,6 +13,7 @@ namespace LeetCode.SameTree
             this.left = left;
             this.right = right;
         }
-        
+
+
     }
 }
