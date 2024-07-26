@@ -2,7 +2,13 @@
 
 namespace LeetCode.Zigzag_Conversion
 {
-    internal class PrintZigzagConversion
+    public class PrintZigzagConversion
     {
+        public static void Print()
+        {
+            string s = "ABC";
+            string result = ZigzagConversion.Execute(s, 2);
+            Console.WriteLine(result);
+        }
     }
 }

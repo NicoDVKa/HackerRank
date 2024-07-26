@@ -7,6 +7,7 @@ using LeetCode.Sort_An_Array;
 using LeetCode.Sort_of_Increasing_Frecuency;
 using LeetCode.SortPeople;
 using LeetCode.Valid_Parentheses;
+using LeetCode.Zigzag_Conversion;
 
 PrintSortPeople.Print();
 PrintFindAllPeopleWithSecrets.Print();
@@ -16,3 +17,4 @@ PrintSortOfIncreasingFrecuency.Print();
 PrintEvenOddTree.Print();
 PrintValidParentheses.Print();
 PrintSortAnArray.Print();
+PrintZigzagConversion.Print();
