@@ -1,12 +1,14 @@
 ﻿
 
+
+
 namespace LeetCode.Sort_An_Array
 {
     public class SortAnArray
     {
-        public static List<int> Execute(List<int> arrayToSort)
+        public static int[] Execute(int[] arrayToSort)
         {
-            return MergeSort(arrayToSort);
+            return MergeSort(arrayToSort.ToList()).ToArray();
         }
 
         static List<int> MergeSort(List<int> arr)
